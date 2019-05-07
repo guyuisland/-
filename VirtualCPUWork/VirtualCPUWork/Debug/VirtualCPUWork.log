@@ -1,0 +1,5 @@
+﻿  CPU.cpp
+c:\users\10980\desktop\机组大作业\virtualcpuwork\virtualcpuwork\cpu.cpp(708): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\10980\desktop\机组大作业\virtualcpuwork\virtualcpuwork\cpu.cpp(710): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+c:\users\10980\desktop\机组大作业\virtualcpuwork\virtualcpuwork\cpu.cpp(452): warning C4715: “judge_lines”: 不是所有的控件路径都返回值
+  VirtualCPUWork.vcxproj -> C:\Users\10980\Desktop\机组大作业\VirtualCPUWork\Debug\VirtualCPUWork.exe

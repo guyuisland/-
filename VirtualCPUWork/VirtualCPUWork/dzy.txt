@@ -1,0 +1,13 @@
+start
+        movl    $0, R1
+        movl    $1, R2
+        jmp     .L2
+.L3:
+        movl   R2, R0
+        addl    R0, R1
+        addl    $1, R2
+.L2:
+        cmpl    $100, R2
+        jle     .L3
+        movl    $0, R0
+end
