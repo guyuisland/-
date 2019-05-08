@@ -783,7 +783,7 @@ void CPU::work() {
 		{
 			changestate();
 		}
-		read_instruction();	// PC,∂¡÷∏¡Ó
+		read_instruction();	// ∂¡÷∏¡Ó
 	}
 }
 
